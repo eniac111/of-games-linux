@@ -218,7 +218,7 @@ neofetch
 plymouth-kcm
 #>extra thunderbird
 #>extra vlc
-yakuake
+#yakuake
 
 ## Documentation
 #manjaro-documentation-en
@@ -287,5 +287,6 @@ power-profiles-daemon
 >extra minetest-server
 >extra warzone2100
 >extra gbrainy
+>extra lincity-ng
 
-lutris
+>extra lutris
