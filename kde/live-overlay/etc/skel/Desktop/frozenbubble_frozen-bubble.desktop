@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-SnapInstanceName=frozenbubble
+Name=Frozen-Bubble
+Comment=Pop out the bubbles!
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/frozenbubble_frozen-bubble.desktop /var/lib/snapd/snap/bin/frozenbubble
+Icon=/var/lib/snapd/snap/frozenbubble/3/meta/gui/frozen-bubble.png
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;
+Keywords=game;bubbles;pop;

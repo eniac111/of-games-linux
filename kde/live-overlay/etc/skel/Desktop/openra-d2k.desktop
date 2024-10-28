@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=OpenRA - Dune 2000
+GenericName=Real Time Strategy Game
+GenericName[de]=Echtzeit-Strategiespiel
+Icon=openra-d2k
+Exec=openra-d2k %U
+Terminal=false
+Categories=Game;StrategyGame;
+StartupWMClass=openra-d2k-release-20231010
+MimeType=x-scheme-handler/openra-d2k-release-20231010;
+PrefersNonDefaultGPU=true

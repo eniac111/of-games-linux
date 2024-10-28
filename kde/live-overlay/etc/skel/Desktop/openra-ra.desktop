@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=OpenRA - Red Alert
+GenericName=Real Time Strategy Game
+GenericName[de]=Echtzeit-Strategiespiel
+Icon=openra-ra
+Exec=openra-ra %U
+Terminal=false
+Categories=Game;StrategyGame;
+StartupWMClass=openra-ra-release-20231010
+MimeType=x-scheme-handler/openra-ra-release-20231010;
+PrefersNonDefaultGPU=true

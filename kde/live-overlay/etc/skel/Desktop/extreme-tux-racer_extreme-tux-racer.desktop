@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-SnapInstanceName=extreme-tux-racer
+Version=0.8.3
+Name=Extreme Tux Racer
+Comment=High speed arctic racing game based on Tux Racer.
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/extreme-tux-racer_extreme-tux-racer.desktop /var/lib/snapd/snap/bin/extreme-tux-racer
+Terminal=false
+Type=Application
+Categories=Game
+Icon=/var/lib/snapd/snap/extreme-tux-racer/56/meta/gui/extreme-tux-racer.png
