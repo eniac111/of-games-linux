@@ -1,12 +1,12 @@
           SpriteFonts
-     6 ms |   Precache common|FreeSans.ttf 10px
-     1 ms |   Precache common|FreeSansBold.ttf 10px
+     3 ms |   Precache common|FreeSans.ttf 10px
+     0 ms |   Precache common|FreeSansBold.ttf 10px
      1 ms |   Precache common|FreeSans.ttf 14px
      1 ms |   Precache common|FreeSansBold.ttf 14px
-     2 ms |   Precache common|FreeSansBold.ttf 18px
-     2 ms |   Precache common|FreeSansBold.ttf 24px
-    38 ms --------------------------------------------------
-     2 ms LoadMaps
+     1 ms |   Precache common|FreeSansBold.ttf 18px
+     1 ms |   Precache common|FreeSansBold.ttf 24px
+    14 ms --------------------------------------------------
+     1 ms LoadMaps
           SpriteFonts
      1 ms |   Precache common|FreeSans.ttf 10px
      0 ms |   Precache common|FreeSansBold.ttf 10px
@@ -17,188 +17,167 @@
      1 ms |   Precache common|FreeSansBold.ttf 24px
      6 ms --------------------------------------------------
           LoadMaps
-    46 ms |   a-nuclear-winter
-     8 ms |   a-path-beyond.oramap
-     2 ms |   agenda.oramap
-    27 ms |   allies-01
-    14 ms |   allies-02
-    20 ms |   allies-03a
-    14 ms |   allies-03b
-    15 ms |   allies-04
-     8 ms |   allies-05a
-    12 ms |   allies-05b
-     7 ms |   allies-05c
-    11 ms |   allies-06a
-     7 ms |   allies-06b
-    12 ms |   allies-07
-    12 ms |   allies-08a
-     6 ms |   allies-08b
-    13 ms |   allies-09a
-     8 ms |   allies-10a
-    12 ms |   allies-10b
-     3 ms |   altercation.oramap
-    14 ms |   ant-01
-    22 ms |   ant-03
-     2 ms |   archipelago.oramap
-     2 ms |   ardennes.oramap
-     1 ms |   ascent.oramap
-     2 ms |   asymmetric-battle.oramap
-     1 ms |   behind-the-veil.oramap
-     1 ms |   blitz.oramap
-     1 ms |   bombardment-islands.oramap
-     9 ms |   bomber-john
-     3 ms |   chaos-canyon.oramap
-     5 ms |   chernobyl
-     2 ms |   climax-rev15.oramap
-    11 ms |   code-19
-     2 ms |   collaboration.oramap
-     2 ms |   countercross.oramap
-     2 ms |   crossfire.oramap
-    11 ms |   desert-rats
-     8 ms |   desert-shellmap
-     2 ms |   discovery.oramap
-     1 ms |   doubles.oramap
-     1 ms |   doublestep.oramap
-     2 ms |   doughnut.oramap
-     9 ms |   drop-zone
-     4 ms |   drop-zone-battle-of-tikiaki
-     8 ms |   drop-zone-w
-     1 ms |   dual-cold-front.oramap
-     1 ms |   dusttown-battle.oramap
-     2 ms |   ensio-kaivo.oramap
-     2 ms |   europe.oramap
-    12 ms |   evacuation
-     7 ms |   exodus
-    11 ms |   fall-of-greece-1-personal-war
-     7 ms |   fall-of-greece-2-evacuation
-     1 ms |   forgotten-plains.oramap
-    15 ms |   fort-lonestar
-     3 ms |   fortified.oramap
-     2 ms |   forward-progress.oramap
-     1 ms |   great-sahara-2.oramap
-     2 ms |   green-belt.oramap
-     2 ms |   haos-ridges.oramap
-     3 ms |   hypothermia.oramap
-     2 ms |   imminent-destruction.oramap
-     9 ms |   in-the-nick-of-time
-    19 ms |   infiltration
-     9 ms |   intervention
-     3 ms |   jungle-law.oramap
-     1 ms |   keep-off-the-grass-2.oramap
-     1 ms |   mad-science.oramap
-     1 ms |   maelstrom.oramap
-     3 ms |   marigold-town.oramap
-     2 ms |   mass-confliction.oramap
-     1 ms |   minor-pressure.oramap
-     7 ms |   monster-tank-madness
-    12 ms |   mousetrap
-     2 ms |   nine-lives.oramap
-     5 ms |   oil-spill
-     2 ms |   operation-goldmine.oramap
-     7 ms |   ore-gardens.oramap
-     1 ms |   ore-lord.oramap
-     2 ms |   outdoor-trails.oramap
-     2 ms |   pie-of-animosity.oramap
-     1 ms |   pitfight.oramap
-     1 ms |   polar-disorder.oramap
-     1 ms |   pool-party.oramap
-     1 ms |   pressure.oramap
-    12 ms |   production-disruption
-     2 ms |   progress.oramap
-     1 ms |   ridges.oramap
-     6 ms |   ritual-circle.oramap
-    14 ms |   sarin-gas-1-crackdown
-     8 ms |   sarin-gas-2-down-under
-    17 ms |   sarin-gas-3-controlled-burn
-     3 ms |   shadowfiend-II.oramap
-    12 ms |   shattered-mountain
-    14 ms |   shock-therapy
-     8 ms |   siberian-conflict-1-fresh-tracks
-     9 ms |   siberian-conflict-3-wasteland
-     2 ms |   Siberian-Pass.oramap
-     2 ms |   sidestep.oramap
-     1 ms |   singles.oramap
-    15 ms |   situation-critical
-     5 ms |   snow-town
-    14 ms |   soviet-01
-     7 ms |   soviet-02a
-    14 ms |   soviet-02b
-     9 ms |   soviet-03
-    15 ms |   soviet-04a
-     9 ms |   soviet-04b
-    16 ms |   soviet-05
-     9 ms |   soviet-06a
-    18 ms |   soviet-06b
-     9 ms |   soviet-07
-    14 ms |   soviet-08a
-     9 ms |   soviet-08b
-    15 ms |   soviet-09
-    11 ms |   soviet-10
-     9 ms |   soviet-11a
-    21 ms |   soviet-11b
-    11 ms |   soviet-13a
-    20 ms |   soviet-13b
-    15 ms |   soviet-soldier-volkov-n-chitzkoi
-     1 ms |   sudden-death.oramap
-     1 ms |   sunstroke.oramap
-    13 ms |   survival01
-     9 ms |   survival02
-     1 ms |   synergy.oramap
-     6 ms |   tandem.oramap
-     2 ms |   temperal.oramap
-     9 ms |   top-o-the-world
-     1 ms |   tournament-island.oramap
-     1 ms |   trapped.oramap
-     2 ms |   unconventional-warfare.oramap
-     2 ms |   union-sacree.oramap
-     7 ms |   vegetation.oramap
-     1 ms |   warwind.oramap
-     2 ms |   x-lake.oramap
-     1 ms |   ysmir.oramap
-  1011 ms --------------------------------------------------
+    22 ms |   16-9.oramap
+     1 ms |   a-new-winter.oramap
+     1 ms |   african-gambit.oramap
+     1 ms |   aggressive-tendencies.oramap
+     2 ms |   alpha-juno-5.oramap
+     1 ms |   antrax.oramap
+     1 ms |   anvil-of-war.oramap
+     1 ms |   arcade.oramap
+     8 ms |   armageddon.oramap
+     1 ms |   axis-of-advance.oramap
+     1 ms |   back-to-basics.oramap
+     1 ms |   badland-ridges.oramap
+     4 ms |   blank-shellmap
+     2 ms |   blood-and-sand.oramap
+     1 ms |   blue-mountains.oramap
+     3 ms |   botany.oramap
+     1 ms |   break-of-day.oramap
+     1 ms |   burning-hammer.oramap
+     3 ms |   carters-ridge.oramap
+     1 ms |   chill-out.oramap
+     1 ms |   chokepoint.oramap
+     7 ms |   cnc64gdi01
+     2 ms |   collateral-chaos.oramap
+     1 ms |   control-and-chaos.oramap
+     1 ms |   crackpoint.oramap
+     2 ms |   crossing-the-divide.oramap
+     1 ms |   desert-invasion.oramap
+     1 ms |   desert-mandarins.oramap
+    11 ms |   desert-rats-cnc
+     1 ms |   desert-storm-3.oramap
+     1 ms |   deserted-outpost.oramap
+     2 ms |   deterring-democracy-plus.oramap
+     1 ms |   deterring-democracy.oramap
+     1 ms |   dualism.oramap
+     1 ms |   east-vs-west-3.oramap
+     2 ms |   elysian-expanse.oramap
+     1 ms |   escalations.oramap
+     8 ms |   eviction-notice
+     1 ms |   fight-win-prevail.oramap
+     1 ms |   frigid-pass.oramap
+     6 ms |   funpark01
+     7 ms |   gdi01
+     9 ms |   gdi02
+     7 ms |   gdi03
+     7 ms |   gdi04a
+    10 ms |   gdi04b
+     8 ms |   gdi04c
+    10 ms |   gdi05a
+     6 ms |   gdi05b
+     7 ms |   gdi05c
+    11 ms |   gdi06
+     7 ms |   gdi07
+     7 ms |   gdi08a
+    11 ms |   gdi08b
+     7 ms |   gdi09
+     1 ms |   haos-ridges-cnc.oramap
+     1 ms |   hattrix.oramap
+     2 ms |   hegemony-or-survival.oramap
+     1 ms |   island-duel.oramap
+     1 ms |   jungle-conflict.oramap
+     7 ms |   kolosseum.oramap
+     2 ms |   lockdown.oramap
+     1 ms |   manufacturing-consent.oramap
+     1 ms |   master-alert.oramap
+     2 ms |   master-of-the-jungle-book.oramap
+     1 ms |   matchpoint.oramap
+     2 ms |   media-control.oramap
+     1 ms |   model-200.oramap
+     1 ms |   morbid-aimless-poseidon.oramap
+     3 ms |   mountain-town-madness.oramap
+     1 ms |   mt-nukebait.oramap
+     7 ms |   nod01
+     5 ms |   nod02a
+     5 ms |   nod02b
+    10 ms |   nod03a
+     5 ms |   nod03b
+     5 ms |   nod04a
+    25 ms |   nod04b
+     7 ms |   nod05
+     6 ms |   nod06a
+    11 ms |   nod06b
+     7 ms |   nod06c
+     6 ms |   nod07a
+    10 ms |   nod07b
+     6 ms |   nod07c
+     5 ms |   nod08a
+     9 ms |   nod08b
+     7 ms |   nod09
+    10 ms |   nod10a
+     5 ms |   nod10b
+     2 ms |   order-of-battle.oramap
+     1 ms |   ping-pong-bay.oramap
+     2 ms |   pirates-and-emperors.oramap
+     1 ms |   pressure-cnc.oramap
+     1 ms |   reaching-out.oramap
+     2 ms |   riverside-frontline.oramap
+     3 ms |   scorched-earth.oramap
+     1 ms |   sustain.oramap
+     3 ms |   tactical-advance.oramap
+     4 ms |   the-hot-box
+     2 ms |   tiberian-falls.oramap
+     3 ms |   tiberium-forest.oramap
+     1 ms |   tiberium-garden-2.oramap
+     1 ms |   tiberium-rift.oramap
+     1 ms |   too-hot.oramap
+     2 ms |   trial-of-possession.oramap
+     2 ms |   tropic-expanse.oramap
+     4 ms |   twin-lakes.oramap
+     8 ms |   twist-of-fate
+     1 ms |   two-ponds.oramap
+     2 ms |   valley-of-gold-6p.oramap
+     2 ms |   valley-of-gold.oramap
+     2 ms |   vectors-of-battle.oramap
+     1 ms |   war-zone-x.oramap
+     7 ms |   warchild.oramap
+     1 ms |   warkraft.oramap
+     1 ms |   x896.oramap
+     2 ms |   year-501.oramap
+   475 ms --------------------------------------------------
           StartGame
           |   NewWorld
           |   |   PrepareMap
           |   |   |   Map
-    30 ms |   |   |   |   LoadSequences
-   273 ms |   |   |   --------------------------------------
+    41 ms |   |   |   |   LoadSequences
+   222 ms |   |   |   --------------------------------------
      6 ms |   |   |   Map.Music
-   638 ms |   |   ------------------------------------------
-   814 ms |   ----------------------------------------------
+   483 ms |   |   ------------------------------------------
+   618 ms |   ----------------------------------------------
           |   LoadComplete
      0 ms |   |   ScreenMap.WorldLoaded
      0 ms |   |   MenuPaletteEffect.WorldLoaded
      5 ms |   |   MusicPlaylist.WorldLoaded
+     6 ms |   |   TerrainRenderer.WorldLoaded
      0 ms |   |   TerrainGeometryOverlay.WorldLoaded
-    17 ms |   |   TerrainRenderer.WorldLoaded
-    34 ms |   |   ShroudRenderer.WorldLoaded
-     3 ms |   |   DevCommands.WorldLoaded
+     8 ms |   |   ShroudRenderer.WorldLoaded
+     2 ms |   |   DevCommands.WorldLoaded
      1 ms |   |   DebugVisualizationCommands.WorldLoaded
      0 ms |   |   PlayerCommands.WorldLoaded
      0 ms |   |   HelpCommand.WorldLoaded
      0 ms |   |   ScreenShaker.WorldLoaded
-    36 ms |   |   LegacyBridgeLayer.WorldLoaded
-     0 ms |   |   CustomTerrainDebugOverlay.WorldLoaded
-     9 ms |   |   SmudgeLayer.WorldLoaded
+     7 ms |   |   LegacyBridgeLayer.WorldLoaded
      3 ms |   |   SmudgeLayer.WorldLoaded
-   385 ms |   |   SpawnMapActors.WorldLoaded
-    26 ms |   |   LoadWidgetAtGameStart.WorldLoaded
+     0 ms |   |   SmudgeLayer.WorldLoaded
+     0 ms |   |   CustomTerrainDebugOverlay.WorldLoaded
+     2 ms |   |   SpawnMapActors.WorldLoaded
+    32 ms |   |   LoadWidgetAtGameStart.WorldLoaded
      0 ms |   |   CellTriggerOverlay.WorldLoaded
      0 ms |   |   TimeLimitManager.WorldLoaded
-    17 ms |   |   Locomotor.WorldLoaded
-     8 ms |   |   Locomotor.WorldLoaded
-     8 ms |   |   Locomotor.WorldLoaded
-    27 ms |   |   Locomotor.WorldLoaded
-     7 ms |   |   Locomotor.WorldLoaded
-     7 ms |   |   Locomotor.WorldLoaded
-     7 ms |   |   Locomotor.WorldLoaded
-     7 ms |   |   Locomotor.WorldLoaded
-     7 ms |   |   Locomotor.WorldLoaded
-     5 ms |   |   ResourceLayer.WorldLoaded
-   213 ms |   |   LuaScript.WorldLoaded
+    10 ms |   |   Locomotor.WorldLoaded
+     0 ms |   |   Locomotor.WorldLoaded
+     0 ms |   |   Locomotor.WorldLoaded
+     0 ms |   |   Locomotor.WorldLoaded
+     0 ms |   |   Locomotor.WorldLoaded
+     0 ms |   |   Locomotor.WorldLoaded
+     0 ms |   |   Locomotor.WorldLoaded
+     0 ms |   |   Locomotor.WorldLoaded
+     0 ms |   |   Locomotor.WorldLoaded
+     0 ms |   |   Locomotor.WorldLoaded
+    16 ms |   |   ResourceLayer.WorldLoaded
     10 ms |   |   ResourceRenderer.WorldLoaded
-     0 ms |   |   WithResourceAnimation.WorldLoaded
-   269 ms |   |   PathFinder.WorldLoaded
+    50 ms |   |   PathFinder.WorldLoaded
      0 ms |   |   PathFinderOverlay.WorldLoaded
      0 ms |   |   HierarchicalPathFinderOverlay.WorldLoaded
      0 ms |   |   MissionObjectives.WorldLoaded
@@ -209,17 +188,5 @@
      0 ms |   |   PlayerStatistics.WorldLoaded
      0 ms |   |   GameSaveViewportManager.WorldLoaded
      0 ms |   |   PlayerRadarTerrain.WorldLoaded
-     0 ms |   |   MissionObjectives.WorldLoaded
-     0 ms |   |   PlayerStatistics.WorldLoaded
-     0 ms |   |   GameSaveViewportManager.WorldLoaded
-     0 ms |   |   PlayerRadarTerrain.WorldLoaded
-     0 ms |   |   MissionObjectives.WorldLoaded
-     0 ms |   |   PlayerStatistics.WorldLoaded
-     0 ms |   |   GameSaveViewportManager.WorldLoaded
-     0 ms |   |   PlayerRadarTerrain.WorldLoaded
-     0 ms |   |   MissionObjectives.WorldLoaded
-     0 ms |   |   PlayerStatistics.WorldLoaded
-     0 ms |   |   GameSaveViewportManager.WorldLoaded
-     0 ms |   |   PlayerRadarTerrain.WorldLoaded
-  1119 ms |   ----------------------------------------------
-  2132 ms --------------------------------------------------
+   157 ms |   ----------------------------------------------
+   857 ms --------------------------------------------------
